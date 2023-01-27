@@ -39,12 +39,8 @@
             "id": "1a751add8e56a98c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "27-01-2023.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -114,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "27-01-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "27-01-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "27-01-2023.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -180,17 +172,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1a751add8e56a98c",
+  "active": "cc1ef28ace4495eb",
   "lastOpenFiles": [
-    "Templates/Templates.md",
     "27-01-2023.md",
+    "Templates/Templates.md",
+    "Untitled.canvas",
+    "IA/Chatbot GPT/4-1.4 Configurar un sistema de versionado.md",
+    "Progreso/27-01-2023.md",
     "Templates/Diario.md",
     "2023-01-27.md",
     "Excalidraw/Drawing 2023-01-27 16.05.38.excalidraw.md",
     "{{date}}.md",
-    "Templates/t.md",
-    "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas",
-    "IA/Chatbot GPT/Untitled.md",
-    "IA/Chatbot GPT/0-RoadMap.md"
+    "Templates/t.md"
   ]
 }
