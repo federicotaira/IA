@@ -1,18 +1,26 @@
 {
   "main": {
-    "id": "29f1cd756edcb2ad",
+    "id": "e2fd28a324b8890b",
     "type": "split",
     "children": [
       {
-        "id": "a1775dfb3fe4ebe6",
+        "id": "c517ad3e33a00d2f",
         "type": "tabs",
         "children": [
           {
-            "id": "d7b1827249d1bfb2",
+            "id": "8054027744c48341",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas",
+                "viewState": {
+                  "x": 218.0227140622008,
+                  "y": 1239.863727406839,
+                  "zoom": -0.16322097243055678,
+                  "snapToGrid": false
+                }
+              }
             }
           }
         ]
@@ -21,15 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "52d2babb7b8ad02a",
+    "id": "f393e7846accc5e9",
     "type": "split",
     "children": [
       {
-        "id": "27477ad48cfd3e4b",
+        "id": "f610984a7c2feaee",
         "type": "tabs",
         "children": [
           {
-            "id": "45ece1a699b69532",
+            "id": "cc1ef28ace4495eb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +47,7 @@
             }
           },
           {
-            "id": "ea9e33f8d3b85e82",
+            "id": "d4d6b1cd91c8b48d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +62,7 @@
             }
           },
           {
-            "id": "3e5f9180d5e58baf",
+            "id": "e9ae9666d28860bc",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -65,22 +73,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 300
   },
   "right": {
-    "id": "e2a7fa245092deb6",
+    "id": "d25ed25a54a09b01",
     "type": "split",
     "children": [
       {
-        "id": "998e7b2f9d97190f",
+        "id": "6deee81c6211dbe7",
         "type": "tabs",
         "children": [
           {
-            "id": "150c18d2707f6b95",
+            "id": "08182fa34b1470f0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IA/Chatbot GPT/4-1.0 Como continuar entrenando un modelo pre-entrenado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +101,19 @@
             }
           },
           {
-            "id": "52a651c41a0c67c3",
+            "id": "5e465f159f393ff2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IA/Chatbot GPT/4-1.0 Como continuar entrenando un modelo pre-entrenado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4398f05a029a1a3c",
+            "id": "5627d279876a5a07",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +124,13 @@
             }
           },
           {
-            "id": "fea698ff116b0982",
+            "id": "325f97aa1dbc5ae4",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IA/Chatbot GPT/4-1.0 Como continuar entrenando un modelo pre-entrenado.md"
+              }
             }
           }
         ]
@@ -138,17 +150,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45ece1a699b69532",
+  "active": "8054027744c48341",
   "lastOpenFiles": [
-    "HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Descuento.md",
-    "HTTP/5-Decidir la tasa de descuento utilizando el codigo de cupon/Untitled 1.md",
-    "HTTP/6-Creacion de formularios y visualizacion de resultados en el mismo archivo/Untitled 3.md",
-    "HTTP/Vocabulario Japones - espanol.md",
-    "IA/Chatbot GPT/4-1.0 Como continuar entrenando un modelo pre-entrenado.md",
+    "IA/Chatbot GPT/0-RoadMap.md",
+    "IA/Chatbot GPT/4-1.4 Configurar un sistema de versionado.md",
+    "IA/Chatbot GPT/4-1.3 Configurar el acceso a una GPU.md",
+    "IA/Chatbot GPT/4-1.2 Configurar un sistema de versionado.md",
+    "IA/Chatbot GPT/4-1.2 Configuración del entorno de entrenamiento.md",
     "IA/Chatbot GPT/4-1.1 Instalar las dependencias necesarias.md",
-    "HTTP/3-comprobacion de los datos de entrada del formulario/10-1.0 formulario HTML que se utiliza para recopilar información de los usuarios. (check_name).md",
-    "Untitled 2.md",
-    "HTTP/3-comprobacion de los datos de entrada del formulario/10-1.1 Verificacion la entrada de un formulario. funcion cken().md",
-    "HTTP/3-comprobacion de los datos de entrada del formulario/10-1.0 CSS.md"
+    "IA/Chatbot GPT/4-1.1 Configuración del entorno de entrenamiento.md",
+    "IA/Chatbot GPT/4-1.0 Como continuar entrenando un modelo pre-entrenado.md",
+    "IA/Chatbot GPT/3-1.0 Seleccionar un modelo de lenguaje previamente entrenado..md",
+    "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas"
   ]
 }
