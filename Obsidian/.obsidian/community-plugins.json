@@ -1,4 +1,10 @@
 [
   "code-block-copy",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "table-editor-obsidian",
+  "obsidian-minimal-settings",
+  "obsidian-git",
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
+  "obsidian-admonition"
 ]

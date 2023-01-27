@@ -1,1 +1,11 @@
-{}
+{
+  "livePreview": false,
+  "spellcheckLanguages": [
+    "es"
+  ],
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./AXESOS",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
+}
