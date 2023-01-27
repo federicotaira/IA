@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "8fbf61548a268005",
+    "type": "split",
+    "children": [
+      {
+        "id": "2eff410e3a1e43df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34c241dd41c0deb0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Chatbot GPT/0-1.0ChatbotGPT.canvas",
+                "viewState": {
+                  "x": 784.8739872710387,
+                  "y": 277.4453372232193,
+                  "zoom": -1.3419116913410836,
+                  "snapToGrid": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6600aff167309fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "657f00dcf7239236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a859b0badae536c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d822d0938ab1315",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4de296126fe1a285",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dafd361f53cebdc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "de5c8aa5581840ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "119a62dfe0e8f946",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chatbot GPT/4-1.4 Configurar un sistema de versionado.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d768b6bf1f5a93bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chatbot GPT/4-1.4 Configurar un sistema de versionado.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80a741740560a0c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27f345eee72dfb61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chatbot GPT/4-1.4 Configurar un sistema de versionado.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "34c241dd41c0deb0",
+  "lastOpenFiles": [
+    "Chatbot GPT/3-1.0 Seleccionar un modelo de lenguaje previamente entrenado..md",
+    "Chatbot GPT/2-1.0 Preprocesamiento de los datos de entrenamiento.md",
+    "Chatbot GPT/1-1.0Recopilar un gran conjunto de datos de entrenamiento.md",
+    "Chatbot GPT/0-RoadMap.md",
+    "Chatbot GPT/0-1.0ChatbotGPT.canvas"
+  ]
+}
