@@ -11,15 +11,9 @@
             "id": "8054027744c48341",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas",
-                "viewState": {
-                  "x": 619.5012876352108,
-                  "y": -652.5287213315831,
-                  "zoom": -1.9048881530444322,
-                  "snapToGrid": false
-                }
+                "file": "Excalidraw/Drawing 2023-01-27 16.05.38.excalidraw.md"
               }
             }
           },
@@ -109,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas",
+                "file": "Excalidraw/Drawing 2023-01-27 16.05.38.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas",
+                "file": "Excalidraw/Drawing 2023-01-27 16.05.38.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas"
+                "file": "Excalidraw/Drawing 2023-01-27 16.05.38.excalidraw.md"
               }
             }
           }
@@ -177,14 +171,14 @@
   },
   "active": "8054027744c48341",
   "lastOpenFiles": [
+    "Templates/Templates.md",
+    "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas",
     "IA/Chatbot GPT/0-RoadMap.md",
     "IA/Chatbot GPT/4-1.2 Configurar un sistema de versionado.md",
     "IA/Chatbot GPT/4-1.3 Configurar el acceso a una GPU.md",
     "IA/Chatbot GPT/4-1.4 Configurar un sistema de versionado.md",
     "IA/Chatbot GPT/Untitled.md",
-    "IA/Chatbot GPT/0-1.0ChatbotGPT.canvas",
     "27-01-2023.md",
-    "Templates/Templates.md",
     "Untitled.canvas",
     "Progreso/27-01-2023.md"
   ]
