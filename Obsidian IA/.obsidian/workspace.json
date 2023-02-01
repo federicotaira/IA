@@ -11,8 +11,16 @@
             "id": "82029977deac0e8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Chatbot GPT/0-1.0ChatbotGPT.canvas",
+                "viewState": {
+                  "x": 1353.1949594048212,
+                  "y": 298.7982973065372,
+                  "zoom": -0.8087064958396522,
+                  "snapToGrid": false
+                }
+              }
             }
           }
         ]
@@ -65,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5,
-    "collapsed": true
+    "width": 408.5
   },
   "right": {
     "id": "46b48b166b5692e4",
@@ -82,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chatbot GPT/0-1.0ChatbotGPT.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chatbot GPT/0-1.0ChatbotGPT.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chatbot GPT/0-1.0ChatbotGPT.canvas"
+              }
             }
           },
           {
@@ -161,9 +172,9 @@
   },
   "active": "82029977deac0e8e",
   "lastOpenFiles": [
+    "Chatbot GPT/ChatbotGPT RoadMap.md",
     "Chatbot GPT/0-1.0ChatbotGPT.canvas",
     "key api/Key Api.md",
-    "Chatbot GPT/ChatbotGPT RoadMap.md",
     "Chatbot GPT/Entrenar el modelo con los datos preprocesados.md",
     "Chatbot GPT/Instalar las dependencias necesarias.md",
     "Chatbot GPT/TensorFlow.md",
