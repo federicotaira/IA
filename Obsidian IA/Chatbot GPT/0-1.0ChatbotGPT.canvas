@@ -8,13 +8,13 @@
 		{"id":"5d9c1351ba909c21","x":-325,"y":1031,"width":430,"height":164,"type":"text","text":"5.  Evaluar el modelo entrenado. Una vez entrenado el modelo, es importante evaluarlo para verificar su rendimiento. Puede utilizar métricas como el puntaje de perplexidad o el puntaje de coherencia para evaluar el rendimiento del modelo."},
 		{"id":"a1c60d213c7788aa","x":-325,"y":1394,"width":475,"height":159,"type":"text","text":"6.  Utilizar el modelo para generar texto. Una vez que su modelo ha sido entrenado y evaluado, está listo para usarlo para generar texto. Utilice una biblioteca de procesamiento de lenguaje natural para generar texto a partir de una semilla o un contexto dado."},
 		{"id":"dbf6e1cc5ba7377f","x":586,"y":795,"width":400,"height":400,"type":"file","file":"Chatbot GPT/Entrenar el modelo con los datos preprocesados.md"},
-		{"id":"0bbc6d830be57c28","x":1796,"y":439,"width":616,"height":713,"type":"file","file":"Chatbot GPT/Instalar las dependencias necesarias.md"},
-		{"id":"d2234a5d348dd55e","x":1796,"y":1195,"width":734,"height":589,"type":"file","file":"Chatbot GPT/Configurar el acceso a una GPU.md"},
-		{"id":"efc01ef3b5dcf554","x":1796,"y":1784,"width":734,"height":976,"type":"file","file":"100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/Configurar un sistema de versionado.md"},
 		{"id":"58e5a278ca44ac92","x":-781,"y":-609,"width":400,"height":974,"type":"file","file":"Chatbot GPT/ChatbotGPT RoadMap.md"},
+		{"id":"d2234a5d348dd55e","x":1796,"y":1195,"width":734,"height":589,"type":"file","file":"Chatbot GPT/Configurar el acceso a una GPU.md"},
+		{"id":"efc01ef3b5dcf554","x":1796,"y":1784,"width":734,"height":976,"type":"file","file":"Chatbot GPT/Configurar un sistema de versionado.md"},
 		{"id":"c34c0cea3316024e","x":464,"y":-908,"width":456,"height":400,"type":"file","file":"Chatbot GPT/Recopilar un gran conjunto de datos de entrenamiento.md"},
 		{"id":"54777594660777a5","x":1221,"y":-971,"width":400,"height":400,"type":"file","file":"Chatbot GPT/corpus de datos.md"},
-		{"id":"1f5e5c09ccc83356","x":1116,"y":-304,"width":400,"height":400,"type":"file","file":"Chatbot GPT/Lista de las tareas de preprocesamiento de texto más comunes.md"}
+		{"id":"1f5e5c09ccc83356","x":1116,"y":-304,"width":400,"height":400,"type":"file","file":"Chatbot GPT/Lista de las tareas de preprocesamiento de texto más comunes.md"},
+		{"id":"0bbc6d830be57c28","x":1796,"y":482,"width":616,"height":713,"type":"file","file":"Chatbot GPT/Instalar las dependencias necesarias.md"}
 	],
 	"edges":[
 		{"id":"d79808a615a8b90e","fromNode":"45ca0d8ba5de0319","fromSide":"bottom","toNode":"f64e7b20e317dfe0","toSide":"top"},
