@@ -1,39 +1,62 @@
 {
   "main": {
-    "id": "2ca2c346933c2fa3",
+    "id": "01d9b6ca5911839f",
     "type": "split",
     "children": [
       {
-        "id": "2ebbe1b9d4cd9298",
+        "id": "4dd0d7f4ec6e509f",
         "type": "tabs",
         "children": [
           {
-            "id": "cd879cc34eac78ec",
+            "id": "674dabbd6d846fc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/IA/Chatbot GPT/0-RoadMap.md",
+                "file": "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 8 - HTTP/Conceptos basicos de procesamientos/Conceptos basicos del procesamiento de entrada de formulario.md",
                 "mode": "source",
-                "source": false
+                "backlinks": true,
+                "source": true
               }
             }
+          },
+          {
+            "id": "cea2a8d2243962a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/PHP-MySQL/Cap 9- Diferentes formas de usos/9-1 Uso de botones de opciones/Usar botones de opcion.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c92a24972ecf747f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8d1fe30877bd7e31",
+    "id": "a45500da3e4c5588",
     "type": "split",
     "children": [
       {
-        "id": "03e148f052072540",
+        "id": "2ba5dbf552855228",
         "type": "tabs",
         "children": [
           {
-            "id": "97409157bc694c7b",
+            "id": "46c7b5f9bb3225d1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,22 +66,22 @@
             }
           },
           {
-            "id": "453ddcb8a6941e96",
+            "id": "c51cb2f307b08a39",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "funcion de php",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "5901def1db1c0abb",
+            "id": "629670721f51d317",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -69,23 +92,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 408.5
   },
   "right": {
-    "id": "0c90b3d5a3dfd352",
+    "id": "46b48b166b5692e4",
     "type": "split",
     "children": [
       {
-        "id": "357e32d2cc266389",
+        "id": "a7e889c046d7f845",
         "type": "tabs",
         "children": [
           {
-            "id": "5be4b3596109d8cb",
+            "id": "d21f6cfe39825882",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/IA/Chatbot GPT/0-RoadMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +119,18 @@
             }
           },
           {
-            "id": "ceba51b41d6fd856",
+            "id": "2f1773bb01ccf764",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/IA/Chatbot GPT/0-RoadMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e3b20e291225a799",
+            "id": "b4427e84a624bdc8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +141,27 @@
             }
           },
           {
-            "id": "d4eb77f56f190225",
+            "id": "d255557f74746c4e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian/IA/Chatbot GPT/0-RoadMap.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "6993c7b939ba62b5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ef68dce4db385e1",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
             }
           }
         ]
@@ -138,14 +173,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
       "switcher:Abrir quick switcher": false,
       "graph:Abrir vista de gráfico": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "canvas:Create new canvas": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cd879cc34eac78ec",
-  "lastOpenFiles": []
+  "active": "46c7b5f9bb3225d1",
+  "lastOpenFiles": [
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/ANEXOS/Pasted image 20230124214513.png",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/ANEXOS/Pasted image 20230124205434.png",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/ANEXOS/Pasted image 20230125210057.png",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/ANEXOS/Pasted image 20230124225409.png",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/ANEXOS/Pasted image 20230124225313.png",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/ANEXOS/Pasted image 20230124215438.png",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/ANEXOS/Pasted image 20230124214930.png",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/corpus de datos.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/Configurar un sistema de versionado.md",
+    "100-CONOCIMIENTO/AREAS/PROGRAMACION/LENGUAJE DE PROGRAMACION/Python/IA/Chatbot GPT/Cómo activar algunas de las tareas de preprocesamiento mencionadas en Python utilizando NLTK.md"
+  ]
 }
